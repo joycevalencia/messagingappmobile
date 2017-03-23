@@ -78,7 +78,7 @@ textarea {
     box-shadow: 2px -2px 2px 0 rgba( 178, 178, 178, .4 );
     right: -9px;
 }
-.content{
+.contentMain{
     height:             calc(100vh - 78px - 50px);
     height:    -moz-calc(100vh - 78px - 50px);
     height:     -ms-calc(100vh - 78px - 50px);
